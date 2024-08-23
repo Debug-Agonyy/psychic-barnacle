@@ -1,0 +1,36 @@
+.h{
+    text-align: center;
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 1px;
+    margin-top: 40px;
+    font-size: 3cm;
+    
+}
+.image{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    margin-right: 150px;
+
+}
+.left{
+    font-size: 1cm;
+    margin-right: 1px;
+}
+.right{
+    display: flex;
+    margin-left: 3px;
+    font-size: 1cm;
+    margin-right: 50px;
+}
+.body{
+    background-color: indigo;
+    color: hotpink;
+}
+
+
+
+
+
